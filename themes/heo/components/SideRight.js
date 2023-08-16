@@ -35,7 +35,7 @@ export default function SideRight(props) {
   return (
         <div id='sideRight' className='hidden xl:block w-72 space-y-4 h-full'>
 
-            <InfoCard {...props} className='w-72' />
+            {/* <InfoCard {...props} className='w-72' />*/}
 
             <div className='sticky top-20 space-y-4'>
                 {post && post.toc && post.toc.length > 0 && (
