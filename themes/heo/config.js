@@ -10,11 +10,11 @@ const CONFIG = {
   ],
 
   // 英雄区(首页顶部大卡)
-  HERO_TITLE_1: 'AI Prompt Generator',
-  HERO_TITLE_2: 'Ignite Your Imagination!',
+  HERO_TITLE_1: 'AI Prompt',
+  HERO_TITLE_2: 'Generator',
   HERO_TITLE_3: 'Designer\'s Inspiration Assistant',
   HERO_TITLE_4: 'Comparison for Productivity',
-  HERO_TITLE_5: 'Best AI Tools',
+  HERO_TITLE_5: 'AI Prompt Generator',
   HERO_TITLE_LINK: 'https://www.aigenprompt.com/',
 
   // 英雄区显示三个置顶分类
@@ -23,7 +23,7 @@ const CONFIG = {
   HERO_CATEGORY_3: { title: 'Practical Tutorials', url: '/tag/Practical-Tutorials' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
-  HERO_RECOMMEND_POST_TAG: 'recommend', // Must-Read-Selection
+  HERO_RECOMMEND_POST_TAG: 'Popular-Articles', // Must-Read-Selection
   HERO_RECOMMEND_POST_SORT_BY_UPDATE_TIME: false, // 推荐文章排序，为`true`时将强制按最后修改时间倒序
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
