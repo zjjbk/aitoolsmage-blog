@@ -32,7 +32,7 @@ const Footer = ({ title }) => {
             <AdSlot type='native'/>
             <br />
 
-            {/* 底部页面信息 */}
+            {/* 底部页面信息 
             <div id='footer-bottom' className='w-full h-20 flex flex-col p-3 lg:flex-row justify-between px-6 items-center bg-[#f1f3f7] dark:bg-[#30343f]'>
 
                 <div id='footer-bottom-left'>
@@ -50,7 +50,7 @@ const Footer = ({ title }) => {
                 {/* <h1 className='text-xs pt-4 text-light-400 dark:text-gray-400'>{title} {BLOG.BIO && <>|</>} {BLOG.BIO}</h1> */}
 
             </div>
-        </div>
+        </div>*/}
         </footer >
   )
 }
