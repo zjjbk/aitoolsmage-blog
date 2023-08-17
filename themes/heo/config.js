@@ -12,7 +12,7 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HERO_TITLE_1: 'AI Prompt Generator',
   HERO_TITLE_2: 'Ignite Your Imagination!',
-  HERO_TITLE_3: 'Designer's Inspiration Assistant',
+  HERO_TITLE_3: 'Designer\'s Inspiration Assistant',
   HERO_TITLE_4: 'Comparison for Productivity',
   HERO_TITLE_5: 'Best AI Tools',
   HERO_TITLE_LINK: 'https://www.aigenprompt.com/',
